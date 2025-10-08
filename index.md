@@ -1,3 +1,3 @@
 # index file
 
-<p style="text-align:center;">Text_content</p>
+<p style="text-align:center;">Sample text with center alignment</p>
