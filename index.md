@@ -13,3 +13,4 @@ Text with padding and background.
 
 <img src="images/zip-pouch-1.jpeg" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
 
+Ref: https://docs.document360.com/docs/how-to-change-the-color-of-the-table-header
