@@ -1,8 +1,7 @@
----
-layout: _layouts/my-layout.html
----
-
-# Busy [2025]Summer Sewing
+ ---
+    layout: my-layout
+    title: "Busy [2025]Summer Sewing"
+    ---
 
 [back](./)
 
