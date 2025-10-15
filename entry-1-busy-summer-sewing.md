@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: my-default
 ---
 
 # Busy [2025]Summer Sewing
