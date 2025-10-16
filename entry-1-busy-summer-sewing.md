@@ -1,8 +1,8 @@
- ---
-    layout: my-layout
-    title: "Busy [2025]Summer Sewing"
- ---
+---
+layout: my-layout
+---
 
+# Busy [2025]Summer Sewing
 [back to Homepage](./)
 
 I've been busy sewing this summer and it has been wonderful. Overall I continued finding countless  inspiration on Pinterest and Youtube, and also had plenty of hands-on experience, astonishing myself in the process of what I could do. 
