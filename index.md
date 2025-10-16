@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./entry-1-busy-summer-sewing.md).
+[Entry 1: Busy [2025] Summer Sewing](./entry-1-busy-summer-sewing.md).
 
 There should be whitespace between paragraphs.
 
