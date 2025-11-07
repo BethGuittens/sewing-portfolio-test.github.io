@@ -1,7 +1,7 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  --font-size: 14px;
+  --font-size: 20px;
   /* Default Classic Theme - 60-30-10 Rule Applied */
   /* 60% - Dominant backgrounds (neutral base) */
   --background: #ffffff;
@@ -16,7 +16,7 @@
   
   /* 10% - Accent colors (highlights, CTAs, branding) */
   --primary: #030213;
-  --ring: #030213;
+  --ring: #2acf35;
   
   /* Foreground colors */
   --foreground: #030213;
